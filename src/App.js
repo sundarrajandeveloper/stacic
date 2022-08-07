@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
 
-      welcome sundarrajansdafsdfsafdsf
+     i got job offer form good company
 
     </div>
   );
